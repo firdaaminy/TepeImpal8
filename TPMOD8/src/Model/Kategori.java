@@ -10,6 +10,7 @@ package Model;
  * @author Firda Aminy Ma'ruf
  */
 public class Kategori {
+
     private String nama;
     private int jumlahKursi;
 
@@ -33,5 +34,5 @@ public class Kategori {
     public void setJumlahKursi(int jumlahKursi) {
         this.jumlahKursi = jumlahKursi;
     }
-    
+
 }
